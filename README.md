@@ -1,4 +1,0 @@
-SourceTest
-==========
-
-source code test
